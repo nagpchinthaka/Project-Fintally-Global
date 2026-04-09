@@ -36,13 +36,13 @@
 ## 📸 Project Showcase
 > *Visual highlights of the user interface and the Laravel-powered management system.*
 
-| Frontend Interface | Service Catalog |
+| Frontend Interface | About | Call to Action | 
 |---|---|
-| ![Home Page](images/home_hero.png) | ![Services](images/services_view.png) |
+| ![Home Page](images/h2.jpg) | ![About](images/h3.jpg) | ![Call to Action] (images/h1.jpg) |
 
-| Filament 3 Dashboard (Admin) | Mobile Experience |
+| Filament 3 Dashboard (Admin Login) | Dashboard |
 |---|---|
-| ![Admin Panel](images/admin_dashboard.png) | ![Mobile View](images/mobile_ui.png) |
+| ![Admin Panel](images/login.jpg) | ![Dashboard](images/dashboard.jpg) |
 
 ---
 
