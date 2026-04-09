@@ -37,7 +37,7 @@
 > *Visual highlights of the user interface and the Laravel-powered management system.*
 
 | Frontend Interface | About | Call to Action | 
-|---|---|
+|---|---|---|
 | ![Home Page](images/h2.jpg) | ![About](images/h3.jpg) | ![Call to Action] (images/h1.jpg) |
 
 | Filament 3 Dashboard (Admin Login) | Dashboard |
